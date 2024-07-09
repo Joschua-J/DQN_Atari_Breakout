@@ -1,0 +1,12 @@
+
+                        num_episodes: 32 | 
+                        eps_start: 0.95 | 
+                        eps_end: 0.05 | 
+                        eps_decay: 1600 | 
+                        buffer_size: 1600 | 
+                        batch_size: 2 | 
+                        gamma: 0.95 | 
+                        tau: 0.005 | 
+                        lr: 0.0001 | 
+                        beta: 1.0 | 
+                       
