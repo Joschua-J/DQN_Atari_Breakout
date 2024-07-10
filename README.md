@@ -24,10 +24,10 @@ Now the terminal shows a link that you can click to access the Jupyter UI.
 
 Install the latest version of Python 3.11 (standalone or conda environment).
 
-Use the following command imn your terminal to install all requirements with Pip:
+Use the following command in your terminal to install all requirements with Pip:
 
 ```
-RUN pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 Now you can execute the Jupyter-Notebook.
